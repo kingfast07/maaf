@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 30vw;
+}
+
+.container {
+  position: relative;
+  min-height: 200px;
+  /* border: 1px solid red; */
+}
+
+button {
+  position: absolute;
+  padding: 10px 20px;
+}
+
+#ga {
+  left: 60px;
+}
